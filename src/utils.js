@@ -1,0 +1,1 @@
+export const d2r=d=>d*Math.PI/180; export const r2d=r=>r*180/Math.PI; export const mod360=x=>((x%360)+360)%360;
